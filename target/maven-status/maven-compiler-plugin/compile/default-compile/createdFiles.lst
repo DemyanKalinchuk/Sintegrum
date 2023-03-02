@@ -1,0 +1,5 @@
+core\TestStepLogger.class
+pages\HeaderPageSintegrum.class
+steps\HeaderPageSteps.class
+utils\BasePage.class
+utils\BaseTest.class

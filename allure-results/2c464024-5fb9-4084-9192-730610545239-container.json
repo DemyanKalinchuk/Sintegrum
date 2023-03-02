@@ -1,0 +1,1 @@
+{"uuid":"2c464024-5fb9-4084-9192-730610545239","name":"frameworkFowSintegrum","children":["c7bd8af9-0b69-4065-af58-7098aee2123e"],"befores":[{"name":"open","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1677789442596,"stop":1677789443353}],"afters":[],"start":1677789442510,"stop":1677789443920}
